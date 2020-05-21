@@ -17,7 +17,7 @@ now you will be able to run website on local host.
 
 Home Page:-
 
-![]{de1.png}
+![](de1.png)
 
 https://user-images.githubusercontent.com/30871096/82564260-194b8200-9b96-11ea-8b3e-22c69a074604.png
 
